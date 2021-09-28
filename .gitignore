@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+# Expo cache directories and files
+.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
